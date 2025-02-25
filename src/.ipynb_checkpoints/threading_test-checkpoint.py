@@ -1,6 +1,6 @@
 import threading
 import time
-from computation import generate_and_add_numbers, generate_and_join_letters
+from src.computation import generate_and_add_numbers, generate_and_join_letters
 
 def run_threads():
     print("Starting threading execution")
