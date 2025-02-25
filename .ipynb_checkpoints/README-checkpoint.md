@@ -1,3 +1,5 @@
+# DSAI3202-LABS
+ DSAI3202 Parallel &amp; Distributed Comp ALL LABS 
 """
 # Performance Analysis with Threads and Processes
 
@@ -5,7 +7,7 @@ This project analyzes the performance of sequential execution, threading, and mu
 
 ## Structure:
 - **src/** → Contains function implementations.
-- **tests/** → Unit tests.
+- **test/** → Unit tests.
 - **main.py** → Entry point to execute all methods.
 
 ## How to Run:
